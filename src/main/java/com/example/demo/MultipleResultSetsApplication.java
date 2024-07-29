@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReadDataFromSpApplication {
+public class MultipleResultSetsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ReadDataFromSpApplication.class, args);
+		SpringApplication.run(MultipleResultSetsApplication.class, args);
 	}
 
 }
